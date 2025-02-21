@@ -1,2 +1,4 @@
 # Economics_of_BNPL_JFE
-Replication package
+
+Replication Kit for “The Economics of `Buy Now, Pay Later’: A Merchant’s Perspective”
+Tobias Berg, Valentin Burg, Jan Keil, Manju Puri
